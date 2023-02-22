@@ -30,7 +30,7 @@
 ###
 <h2 align="left">Connect with me on:</h2>
 <div align="left">
-  <img src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg](https://www.linkedin.com/in/denzel-spencer-ngwenya/)" height="40" width="52" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spss/spss-original.svg" height="40" width="52" alt="spss logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="52" alt="sql logo"  />
