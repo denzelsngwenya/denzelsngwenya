@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> 📚 Masters in Applied Mathematics graduate (2021) <br> 📚 Masters in Mathematical Science graduate (2022)<br> 🏢 I'm currently working as a Financial Risk Analyst<br>🎯 Goals: Get a good PhD in Deep Learning<br>🎲 Fun fact: I believe Aliens exist and we're part of a big simulation.</p>
+<p align="left"> 📚 Masters in Mathematical Science graduate (2022) <br> 📚 Masters in Applied Mathematical Modelling (2021)<br> 🏢 I'm currently working as a Financial Risk Analyst<br>🎯 Goals: Get a good PhD in Deep Learning<br>🎲 Fun fact: I believe Aliens exist and we're part of a big simulation.</p>
 
 ###
 
@@ -29,12 +29,7 @@
 
 ###
 <h2 align="left">Connect with me on:</h2>
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spss/spss-original.svg" height="40" width="52" alt="spss logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="52" alt="sql logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/julia/julia-original.svg" height="40" width="52" alt="julia logo"  />
-</div>
+<ul>
+  <li> Email: denzelsngwenya@gmail.com
+</ul>
 ###
