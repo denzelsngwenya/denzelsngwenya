@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Denzel Spencer Ngwenya and I'm an Applied Mathematician, from Zimbabwe. I have two Masters Degrees in Applied Mathematical Modelling and Mathematical Science. I would like to think of myself as a Data enthusiast.</p>
+<p align="left">My name is Denzel Spencer Ngwenya and I'm an Applied Mathematician, from Zimbabwe. I would like to think of myself as a Data enthusiast and I am passionate about Machine Learning, Deep Learning and most non-difficult coding stuff. I almost studied Computer Science and I don't know what happened but we are here now :laughing:  .</p>
 
 ###
 
