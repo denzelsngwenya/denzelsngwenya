@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Masters in Applied Mathematics<br> 📚 I'm currently working as a Financial Risk Analyst<br>🎯 Goals: Get a good PhD in Deep Learning<br>🎲 Fun fact: I believe Aliens exist and we're part of a big simulation.</p>
 
 ###
 
