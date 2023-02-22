@@ -20,13 +20,11 @@
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" height="40" width="52" alt="r logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spss/spss-original.svg" height="40" width="52" alt="spss logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="52" alt="sql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/julia/julia-original.svg" height="40" width="52" alt="julia logo"  />
 </div>
 
 ###
