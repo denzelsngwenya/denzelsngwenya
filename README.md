@@ -30,6 +30,6 @@
 ###
 <h2 align="left">Connect with me on:</h2>
 <ul>
+  <li> <a href="https://www.linkedin.com/in/denzel-spencer-ngwenya/">LinkedIn</a>
   <li> Email: denzelsngwenya@gmail.com
 </ul>
-###
