@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" height="40" width="52" alt="r logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
