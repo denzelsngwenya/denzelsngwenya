@@ -30,6 +30,8 @@
 ###
 <h2 align="left">Connect with me on:</h2>
 <ul>
-  <li> <a href="https://www.linkedin.com/in/denzel-spencer-ngwenya/">LinkedIn</a>
-  <li> Email: denzelsngwenya@gmail.com
+  <li> <a href="https://www.linkedin.com/in/denzel-spencer-ngwenya/">LinkedIn</a> : Denzel Spencer Ngwenya
+  <li> <a href="denzelsngwenya@gmail.com">Email</a>: denzelsngwenya@gmail.com
 </ul>
+
+![Denzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=denzelsngwenya&show_icons=true&bg_color=00000000)
